@@ -22,3 +22,5 @@ bring your own battaries
 
 run time
 
+yes but why?
+
