@@ -36,18 +36,22 @@ or http requests
 
 or reading files
 
-who
+*who*
 
 mapbox
 
 tilemill
 
-<more>
+turf
 
 The New York Times
 
-TopoJSON
+topoJSON
+
+d3
 
 AppGeo
 
-Thats my company
+(thats my company)
+
+*what*
