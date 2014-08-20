@@ -24,3 +24,30 @@ run time
 
 yes but why?
 
+'concurent'
+
+I'm not going to wait, call me back
+
+good for iobound stuff
+
+like servers
+
+or http requests
+
+or reading files
+
+who
+
+mapbox
+
+tilemill
+
+<more>
+
+The New York Times
+
+TopoJSON
+
+AppGeo
+
+Thats my company
