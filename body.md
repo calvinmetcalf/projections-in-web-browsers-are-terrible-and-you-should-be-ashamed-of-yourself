@@ -50,8 +50,23 @@ topoJSON
 
 d3
 
+ESRI
+
+koop
+
 AppGeo
 
 (thats my company)
 
 *what*
+
+Streams
+
+long pipelines of operations
+
+where only a small part is in memory
+
+especially good with geojson
+
+can be put into postgis, gme, esri
+
