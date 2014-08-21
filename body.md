@@ -1,18 +1,22 @@
-GIS in NODE.JS
+*GIS* in *NODE.JS*
 
 hi
 
-my name is calvin
+my name is *calvin*
 
-what is node?
+[@cwmma](https://twitter.com/CWMma)
 
-in python terms
+[calvinmetcalf.com](http://calvinmetcalf.com)
 
-not django
+what is *node*?
 
-not flask
+in *python* terms
 
-node is equivalent to python
+not *django*
+
+not *flask*
+
+*node* is equivalent to *python*
 
 language
 
@@ -22,7 +26,7 @@ standard library
 
 (bring your own batteries)
 
-(except package manager)
+((except package manager))
 
 yes but why?
 
@@ -133,5 +137,17 @@ spatial isn't special
 path finding === routing
 
 hit detection is just comparing 2 bboxen
+
+*related*
+
+sometimes you don't need 'real gis'
+
+like if it's only points
+
+*seriously* just use a geohash
+
+because you can do that with leveldb
+
+but that is a different talk
 
 FIN
