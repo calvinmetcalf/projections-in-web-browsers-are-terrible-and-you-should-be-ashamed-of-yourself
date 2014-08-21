@@ -8,6 +8,8 @@ my name is *calvin*
 
 [calvinmetcalf.com](http://calvinmetcalf.com)
 
+follow along at home http://calvinmetcalf.github.io/gis-node-js
+
 what is *node*?
 
 in *python* terms
@@ -72,7 +74,7 @@ The last worst geospatial format
 
 except for all the others
 
-more from raj ~~latter~~ earlier
+more from raj ~~later~~ earlier
 
 *topojson*
 
