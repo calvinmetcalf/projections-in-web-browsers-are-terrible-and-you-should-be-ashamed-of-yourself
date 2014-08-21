@@ -1,32 +1,34 @@
 GIS in NODE.JS
 
-HI
+hi
 
-My Name Is Calvin
+my name is calvin
 
-What is Node?
+what is node?
 
-In Python terms
+in python terms
 
-Not Django
+not django
 
-Not Flask
+not flask
 
-Node is equivelent to Python
+node is equivalent to python
 
-Language
+language
 
-Standard Library
+run time/vm
 
-bring your own battaries
+standard library
 
-run time
+(bring your own batteries)
+
+(except package manager)
 
 yes but why?
 
 'concurent'
 
-I'm not going to wait, call me back
+i'm not going to wait, call me back
 
 good for iobound stuff
 
@@ -38,29 +40,47 @@ or reading files
 
 *who*
 
-mapbox
+*mapbox*
 
 tilemill
 
 turf
 
-The New York Times
+*the new york times*
 
-topoJSON
+topojson
 
 d3
 
-ESRI
+*esri*
 
 koop
 
-AppGeo
+*appgeo*
 
 (thats my company)
 
 *what*
 
-Streams
+*geojson*
+
+The last worst geospatial format
+
+except for all the others
+
+more from raj latter
+
+*topojson*
+
+lossy compaction for geojson
+
+perfect for web maps
+
+horrible python port
+
+spec!
+
+*streams*
 
 long pipelines of operations
 
@@ -70,3 +90,48 @@ especially good with geojson
 
 can be put into postgis, gme, esri
 
+soon to be standardized into the web
+
+used for
+
+geocoding with massgis several hundred thousand addresses
+
+upload all tiles from mbtiles to d3/google cloud storage
+
+*turf*
+
+![](https://www.mapbox.com/img/team/morgan.jpg) by morgan herlocker
+
+less horrible version of JavaScript Topology Suite
+
+things like
+
+buffer
+
+centroid
+
+convex
+
+is-clockwise
+
+jenks
+
+*tile mill*
+
+make web maps
+
+that aren't ugly
+
+nothing compares
+
+also vector tiles
+
+*game utilities*
+
+spatial isn't special
+
+path finding === routing
+
+hit detection is just comparing 2 bboxen
+
+FIN
