@@ -130,6 +130,32 @@ nothing compares
 
 also vector tiles
 
+*d3*
+
+*innovative* with *projections*
+
+not a typo
+
+*koop*
+
+esri server
+
+in node
+
+open source
+
+on github
+
+*tile live*
+
+tile server
+
+easy
+
+couple apps built with this
+
+kublai and tessera
+
 *game utilities*
 
 spatial isn't special
