@@ -44,6 +44,56 @@ or http requests
 
 or reading files
 
+*backends*
+
+(by request)
+
+*postgres*
+
+some great adapters (knex, pg.js)
+
+the best sql database
+
+also for querying
+
+the best json database
+
+*levelup*
+
+key value store
+
+with ordered keys
+
+plugable backend
+
+including:
+
+memory
+
+browsers datastores
+
+indexedDB/websql/localstorage
+
+riak
+
+postgres/mysql/sqlite
+
+huge ecosystem for backends and plugins
+
+*pouchdb*
+
+json database that syncs
+
+master <-> master replication
+
+multiple backends
+
+couchdb (or cloudant) on the server
+
+leveldb on node
+
+websql/indexedDB in browser
+
 *who*
 
 *mapbox*
