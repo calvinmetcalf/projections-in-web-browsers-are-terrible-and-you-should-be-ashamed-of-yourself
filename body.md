@@ -72,7 +72,7 @@ The last worst geospatial format
 
 except for all the others
 
-more from raj latter
+more from raj ~~latter~~ earlier
 
 *topojson*
 
