@@ -6,12 +6,62 @@ my name is *calvin*
 
 i have *opinions*
 
-why
+*why*
 
 work on *proj4js*
 
 work with *leaflet*
 
 everything is terrible
+
+*what is a projection*
+
+when people say projections, they mean a
+
+*spatial reference system*
+
+which includes
+
+a *spheroid* or model of the earths shape
+
+a *datum* which are reference points to measure from on the sphere
+
+a *coordinate* system with units and and starting points
+
+if it's projected
+
+a *transform* to flatten it
+
+*background*
+
+whats the best projection to use?
+
+the one that works for where you are
+
+in other words
+
+everyone has their own projection
+
+124 in the state plane system
+
+with a version for feet and meters
+
+and versions in the data (plural of datum) NAD27, NAD83
+
+plus in addition to original NAD83 we have HARN and NSRS2007 variants
+
+= 992 systems
+
+this is just *'murica*
+
+*so many*
+
+math is hard
+
+if you don't have a computer
+
+esp trig, and logs
+
+so traditionally reprojection is *hard*
 
 FIN
