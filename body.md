@@ -42,15 +42,15 @@ in other words
 
 everyone has their own projection
 
-124 in the state plane system
+*124* in the state plane system
 
 with a version for feet and meters
 
-and versions in the data (plural of datum) NAD27, NAD83
+and versions in the *data* (plural of *datum*) *NAD27*, *NAD83*
 
-plus in addition to original NAD83 we have HARN and NSRS2007 variants
+plus in addition to original *NAD83* we have *HARN* and *NSRS2007* variants
 
-= 992 systems
+= *992* systems
 
 this is just *'murica*
 
@@ -63,5 +63,21 @@ if you don't have a computer
 esp trig, and logs
 
 so traditionally reprojection is *hard*
+
+so an agency picks a projection and does EVERYTHING in that one
+
+e.g. (when I was at *MassDOT* we used *Massachusetts Mainland Meters NAD83*)
+
+this is great
+
+if printers are the main way that data is transfered
+
+desktop GIS software is built around this idea
+
+there are assumptions that projections rarely change
+
+and are never to be mixed because
+
+*TRIG!!!!1*
 
 FIN
