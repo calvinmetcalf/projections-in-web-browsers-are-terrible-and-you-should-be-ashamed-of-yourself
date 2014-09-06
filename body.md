@@ -8,7 +8,7 @@ i have *opinions*
 
 *why*
 
-work on *proj4js*
+one of the main devs of *proj4js*
 
 work with *leaflet*
 
@@ -79,5 +79,25 @@ there are assumptions that projections rarely change
 and are never to be mixed because
 
 *TRIG!!!!1*
+
+fast forward to now
+
+when was the last time *CPU* was the limiting factor for you?
+
+right its the mobile web where compared to enterprise GIS:
+
+cellphones are *literally* supercomputers
+
+at times my phone is faster then my (work) desktop
+
+most web apps are *IO* bound not *CPU* bound
+
+there is fairly limited space
+
+but data transfer is severely limited
+
+this means
+
+*EPSG* numbers are right out
 
 FIN
