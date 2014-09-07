@@ -100,4 +100,16 @@ this means
 
 *EPSG* numbers are right out
 
+it's > *MiB*
+
+we all don't have the freedom to be *honey badgers* like *openlayers*
+
+(ol3 is *129k*
+
+minified
+
+and *gziped*)
+
 FIN
+
+http://calvinmetcalf.github.io/projections-in-web-browsers-are-terrible-and-you-should-be-ashamed-of-yourself
