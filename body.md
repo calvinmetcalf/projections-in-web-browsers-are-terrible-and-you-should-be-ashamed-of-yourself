@@ -1,8 +1,14 @@
+http://calvinmetcalf.github.io/projections-in-web-browsers-are-terrible-and-you-should-be-ashamed-of-yourself
+
 *projections* in web browsers are *terrible*
 
 and you should be *ashamed* of yourself
 
 my name is *calvin*
+
+you might remember me from my previous presentation
+
+'things you've never heard of not fully explained'
 
 i have *opinions*
 
@@ -16,7 +22,7 @@ everything is terrible
 
 *what is a projection*
 
-when people say projections, they mean a
+when people say projections, they usually mean a
 
 *spatial reference system*
 
@@ -32,29 +38,13 @@ if it's projected
 
 a *transform* to flatten it
 
+(for the sticklers
+
+when i refer to wgs84 as a projection
+
+pretend i'm saying *plate carrée* instead)
+
 *background*
-
-whats the best projection to use?
-
-the one that works for where you are
-
-in other words
-
-everyone has their own projection
-
-*124* in the state plane system
-
-with a version for feet and meters
-
-and versions in the *data* (plural of *datum*) *NAD27*, *NAD83*
-
-plus in addition to original *NAD83* we have *HARN* and *NSRS2007* variants
-
-= *992* systems
-
-this is just *'murica*
-
-*so many*
 
 math is hard
 
@@ -82,34 +72,86 @@ and are never to be mixed because
 
 fast forward to now
 
-when was the last time *CPU* was the limiting factor for you?
+my cellphone is *literally* a supercomputer
 
-right its the mobile web where compared to enterprise GIS:
+my desktop runs other computers inside itself like the *matrix*
 
-cellphones are *literally* supercomputers
+the *interweb* exists
 
-at times my phone is faster then my (work) desktop
+and everyone has their own projection
 
-most web apps are *IO* bound not *CPU* bound
+*124* in the state plane system
 
-there is fairly limited space
+with a version for *feet* and *meters*
 
-but data transfer is severely limited
+and versions in the *data* (plural of *datum*) *NAD27*, *NAD83*
 
-this means
+plus in addition to original *NAD83* we have *HARN* and *NSRS2007* variants
 
-*EPSG* numbers are right out
+= *992* systems
 
-it's > *MiB*
+this is just *'murica*
 
-we all don't have the freedom to be *honey badgers* like *openlayers*
+this is *terrible*
 
-(ol3 is *129k*
+*nobody* cares about your flyover state plane projection
 
-minified
+*nobody*
 
-and *gziped*)
+if somebody gives you data that is projected tell them they are *terrible*
 
-FIN
+do you need *precision* that you can't get with *doubles* & *WGS84*
+
+and you have the *accuracy* that it matters?
+
+if not then if you don't use WGS84 Lat Lngs I hate you.
+
+these are *cargo cult projections*
+
+projections are confusing and complex on the desktop
+
+but on the web they are unworkable
+
+self documenting data is *folly*
+
+there is a long tail of *crazy*
+
+the epsg database is far too big
+
+there are 3 different notations for specifying projections
+
+none of which are consistent
+
+storage and interchange are different
+
+we don't leak database indexing details when we share data
+
+goejson removed *crs* support 
+
+this is *not terrible*
+
+kml was always wgs84 only
+
+kml is *terrible* for unrelated reasons
+
+but all this makes us forget
+
+projections *actually* serve a purpose
+
+\*wax poetic about Mike Bostock\*
+
+projections serve an actual purpose
+
+web mercator doesn't work for everyone
+
+no i'm not talking about flyover state plane
+
+*Scandinavia*
+
+*McMurdo*
+
+adaptive composite projections
+
+go forth and be less terrible
 
 http://calvinmetcalf.github.io/projections-in-web-browsers-are-terrible-and-you-should-be-ashamed-of-yourself
