@@ -6,19 +6,23 @@ and you should be *ashamed* of yourself
 
 my name is *calvin*
 
-you might remember me from my previous presentation
-
-'things you've never heard of not fully explained'
-
 i have *opinions*
 
-*why*
+you might remember me from:
 
-one of the main devs of *proj4js*
+my previous presentation 'things you've never heard of not fully explained'
 
-work with *leaflet*
+the new version of proj4js that isn't *terrible*
 
-everything is terrible
+and leaflet plugins for file formats that shouldn't be used on the web
+
+but first
+
+*apologies* in *advanced* to non-coastal states
+
+im not talking about *your* state
+
+i'm talking about that state *next to your state* that you don't really like
 
 *what is a projection*
 
@@ -32,7 +36,7 @@ a *spheroid* or model of the earths shape
 
 a *datum* which are reference points to measure from on the sphere
 
-a *coordinate* system with units and and starting points
+a *coordinate* reference system with units and and starting points
 
 if it's projected
 
@@ -40,7 +44,7 @@ a *transform* to flatten it
 
 (for the sticklers
 
-when i refer to wgs84 as a projection
+when i refer to *wgs84* as a projection
 
 pretend i'm saying *plate carrée* instead)
 
@@ -139,9 +143,7 @@ but all this makes us forget
 projections *actually* serve a purpose
 
 \*wax poetic about Mike Bostock\*
-
-projections serve an actual purpose
-
+  
 web mercator doesn't work for everyone
 
 no i'm not talking about flyover state plane
