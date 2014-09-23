@@ -130,7 +130,7 @@ storage and interchange are different
 
 we don't leak database indexing details when we share data
 
-goejson removed *crs* support 
+geojson removed *crs* support 
 
 this is *not terrible*
 
